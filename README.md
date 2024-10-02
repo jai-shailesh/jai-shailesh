@@ -3,7 +3,8 @@ I'm Shailesh, A Developer with a focus on user-centric design. I provide excelle
 
 Want to Know More, Reach Out!!
 <h3 align="left">CONNECT WITH ME</h3>
-<img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="display:flex;justify-content:center"/>
+<img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+<img alt="Alt text" src="[https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" />
 
 
 <h3 align="left">TECHNOLOGY STACK</h3>
@@ -21,12 +22,7 @@ Want to Know More, Reach Out!!
 <img alt="Alt text" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
-
 </div>
-
-
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jai-shailesh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
