@@ -2,16 +2,16 @@
 I'm Shailesh, A Developer with a focus on user-centric design. I provide excellent implementations of UI/UX concepts in responsive web applications, with an emphasis on performance and cross-browser support. My strong problem-solving skills and collaborative approach ensure that I not only write high-quality code but also contribute to the success of every project.
 
 Want to Know More, Reach Out!!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">CONNECT WITH ME</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/jai-shailesh-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zylxxu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Technology Stack:</h3>
+<h3 align="center">TECHNOLOGY STACK</h3>
+<div classname="icons" style="display:flex">
 <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
-
 <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
@@ -23,6 +23,8 @@ Want to Know More, Reach Out!!
 <img alt="Alt text" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+
+</div>
 
 
 
