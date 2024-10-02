@@ -8,7 +8,7 @@ Want to Know More, Reach Out!!
 <a href="https://www.instagram.com/zylxxu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Technology Stack:</h3>
+<h3 align="center">Technology Stack:</h3>
 <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
 
