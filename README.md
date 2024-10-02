@@ -4,8 +4,8 @@ I'm Shailesh, A Developer with a focus on user-centric design. I provide excelle
 Want to Know More, Reach Out!!
 <h3 align="left">CONNECT WITH ME</h3>
 <div style="display:flex">
-<img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-<img alt="Alt text" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />  
+  <a href="https://www.linkedin.com/in/jai-shailesh-m"><img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://www.instagram.com/zylxxu"><img alt="Alt text" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />  </a>
 </div>
 
 
