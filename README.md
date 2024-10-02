@@ -18,6 +18,7 @@ Want to Know More, Reach Out!!
 <img alt="Alt text" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
 <img alt="Alt text" src="https://img.shields.io/badge/React%20Bootstrap-41E0FD.svg?style=for-the-badge&logo=React-Bootstrap&logoColor=black"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
