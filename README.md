@@ -2,11 +2,11 @@
 I'm Shailesh, A Developer with a focus on user-centric design. I provide excellent implementations of UI/UX concepts in responsive web applications, with an emphasis on performance and cross-browser support. My strong problem-solving skills and collaborative approach ensure that I not only write high-quality code but also contribute to the success of every project.
 
 Want to Know More, Reach Out!!
-<h3 align="center">CONNECT WITH ME</h3>
+<h3 align="left">CONNECT WITH ME</h3>
 <img alt="Alt text" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="display:flex;justify-content:center"/>
 
 
-<h3 align="center">TECHNOLOGY STACK</h3>
+<h3 align="left">TECHNOLOGY STACK</h3>
 <div classname="icons" style="display:flex;justify-content:center;align-items:center">
 <img alt="Alt text" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
