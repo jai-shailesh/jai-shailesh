@@ -28,7 +28,6 @@ Want to Know More, Reach Out!!
 <img alt="Alt text" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jai-shailesh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
